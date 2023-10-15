@@ -17,5 +17,5 @@
 
 | Name       | Origin Size       |  Compressed Size      | Download Link |
 |:---------:|:--------------:|:---------------:|:----------------------------------------------------:|
-| SRR11412328.fastq   | 4 GB   | 0.5 GB |https://explore.ipld.io/#/explore/QmWMAT8xjC5jL1vJqMc3udxQ7YfjTWqqkugC7uVP1otz7L  |
+| SRR11412328.fastq   | 4 GB   | 0.5 GB | [QmWMAT8xjC5jL1vJqMc3udxQ7YfjTWqqkugC7uVP1otz7L](https://explore.ipld.io/)  |
 
